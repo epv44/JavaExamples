@@ -15,6 +15,9 @@ public class Apple {
         weight = initialWeight;
         this.type = type;
     }
+    public Apple(int iWeight){
+        weight = iWeight;
+    }
 
     public static boolean isGreenApple(Apple apple){
         return "green".equals(apple.getColor());
