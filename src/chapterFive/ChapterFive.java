@@ -46,6 +46,7 @@ public class ChapterFive {
         Reducing.quizFour(menu);
          */
         //section 5.5
+        /*
         PuttingItTogether.transactions2011();
         PuttingItTogether.uniqueCities();
         PuttingItTogether.fromCambridge();
@@ -54,5 +55,14 @@ public class ChapterFive {
         PuttingItTogether.basedInCambridge();
         PuttingItTogether.highestValue();
         PuttingItTogether.smallestValue();
+        */
+        //section 5.6
+        /*
+        NumericStreams.findEvenNumbers();
+        NumericStreams.pythagoreanTripleRefactor();
+        */
+        //section 5.7
+        //StreamsFromValues.streamFromFile();
+        StreamsFromValues.fibonacci();
     }
 }
