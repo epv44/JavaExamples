@@ -63,6 +63,6 @@ public class ChapterFive {
         */
         //section 5.7
         //StreamsFromValues.streamFromFile();
-        StreamsFromValues.fibonacci();
+        //StreamsFromValues.fibonacci();
     }
 }

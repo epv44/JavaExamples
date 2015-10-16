@@ -40,6 +40,7 @@ public class StreamsFromValues {
         IntSupplier fib = new IntSupplier(){
             private int previous = 0;
             private int current = 1;
+            //example of a side effect
             public int getAsInt(){
                 int oldPrevious = this.previous;
                 int nextValue = this.previous + this.current;
