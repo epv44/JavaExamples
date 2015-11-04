@@ -8,10 +8,6 @@ public class ChapterEleven {
 
     }
 
-
-
-
-
 //    public List<String> findPricesFutureOld(String product){
 //        List<CompletableFuture<String>> priceFutures =  shops.stream()
 //                .map(shop -> CompletableFuture.supplyAsync(() -> shop.getName() + " price is " +
